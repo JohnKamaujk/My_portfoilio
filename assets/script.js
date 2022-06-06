@@ -1,1 +1,0 @@
-// Trying to think how I will incorporate js in this project ,a signup/login validation form won't cut it here
